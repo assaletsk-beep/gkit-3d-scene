@@ -5,7 +5,7 @@ University project developed in C++ using gKit.
 ### Global scene
 
 ![Scene](screenshots/scene-overview.png)
-![Scene](screenshots/scene-overview1.png)
+![Scene](screenshots/screenshot1.png)
 
 ## Demo Video
 
